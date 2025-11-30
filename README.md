@@ -20,10 +20,13 @@ I will deploy a Kubernetes cluster using Amazon EKS
 In this project, I will deploy a Kubernetes cluster using Amazon EKS, because this is AWS service for deploying Kubernetes cluster in the cloud. I will also use tools like eksctl and CloudFormation. I will launch and connect to an EC2 instance. Create my very own Kubernetes cluster. Monitor cluster creation with CloudFormation. Access your cluster using an IAM access entry.
 
 ### What is Amazon EKS?
+Is AWS's cloud Kebernetes service, which mean it simplifies managing Kubernetes clusters.
 
 ### One thing I didn't expect
+Was to see how fast and resilient Kubernetes was when I deleted nodes and Kubernetes replaced them instantly. 
 
-### This project took me...
+### This project took me
+About 35 minutes.
 
 ---
 
